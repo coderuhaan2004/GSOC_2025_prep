@@ -1,0 +1,6 @@
+Questions:
+1. Photo frame analysis or video analysis?
+
+Shortcomings:
+1. Not accurate in Hands-free and screen interaction.
+2. Batch Video Processing Challenges
