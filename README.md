@@ -7,6 +7,6 @@ Repository for accumulating the information regarding Google Summer of Code
 2. Do LLM perform reasoning?
 3. Which reasoning model to use?
 
-Shortcomings:
+### Shortcomings:
 1. Not accurate in Hands-free and screen interaction.
 2. Batch Video Processing Challenges
