@@ -1,6 +1,9 @@
 # GSOC_2025_prep
 Repository for accumulating the information regarding Google Summer of Code
 
+## Excalidraw Board
+[https://excalidraw.com/#json=fmCcDl70R_bafo1hZ-yv9,TnYlOkduLOYIY-r2pVwQDQ]
+
 ## Notes
 ### Questions:
 1. Solved: ~Photo frame analysis or video analysis?~
